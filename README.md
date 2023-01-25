@@ -21,5 +21,5 @@ Linux Distro, based on <a href="https://www.archlinux.org">Arch Linux</a>.
 
 
 <p align="center">
-  <img src=""https://raw.githubusercontent.com/asterlinux/AsterLinuxBuid/master/asterlinux-banner.svg">
+  <img src="https://raw.githubusercontent.com/asterlinux/AsterLinuxBuid/master/asterlinux-banner.svg">
 </p>
