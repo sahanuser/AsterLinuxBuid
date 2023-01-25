@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://asterlinux.github.io"><img src="asterlinux.svg" height="128" width="128" alt="AsterLinux"></a>
+<a href="https://asterlinux.github.io"><img src="https://raw.githubusercontent.com/asterlinux/AsterLinuxBuid/master/asterlinux.svg" height="128" width="128" alt="AsterLinux"></a>
 </p>
 
 <p align="center">
