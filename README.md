@@ -12,3 +12,9 @@
 <p align="center">
 Linux Distro, based on <a href="https://www.archlinux.org">Arch Linux</a>.
 </p>
+
+<p align="center">
+  <a href="https://asterlinux.github.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-blue?style=flat-square"></a>
+  <a href="https://www.reddit.com/r/aster_linux" target="_blank"><img alt="reddit" src="https://img.shields.io/badge/REDDIT-blue?style=flat-square"></a>
+  <a href="https://t.me/asterlinux" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=flat-square"></a>
+</p>
