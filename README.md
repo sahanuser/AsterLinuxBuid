@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-Yet another minimal linux distribution, based on <a href="https://www.archlinux.org">Arch Linux</a>.
+Linux Distro, based on <a href="https://www.archlinux.org">Arch Linux</a>.
 </p>
