@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,aster
+network:x:90:aster
+power:x:98:aster
+adm:x:999:aster
+wheel:x:998:aster
+uucp:x:987:aster
+optical:x:990:aster
+rfkill:x:983:aster
+video:x:986:aster
+storage:x:988:aster
+audio:x:995:aster
+users:x:985:aster
+nopasswdlogin:x:966:aster
+autologin:x:967:aster
+aster:x:1000:

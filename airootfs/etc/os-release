@@ -1,0 +1,10 @@
+NAME=AsterLinux
+PRETTY_NAME=Aster Linux
+ID=asterlinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL='https://asterlinux.github.io'
+DOCUMENTATION_URL='https://asterlinux.github.io/doc'
+SUPPORT_URL='https://asterlinux.github.io/support'
+LOGO=asterlinux-logo

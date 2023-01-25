@@ -1,0 +1,2 @@
+#Server = https://raw.githubusercontent.com/sahanuser/aster-linux-repo/master/$arch
+Server = https://asterlinux.github.io/aster-linux-repo/x86_64
