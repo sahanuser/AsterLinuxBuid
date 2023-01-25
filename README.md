@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img alt="SourceForge" src="https://img.shields.io/sourceforge/dt/aster-linux-iso?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/asterlinux/AsterLinuxBuid?style=flat-square">
-  <img src="https://img.shields.io/github/issues/asterlinux/AsterLinuxBuid?color=violet&style=flat-square">
+  <img src="https://img.shields.io/github/stars/asterlinux/AsterLinuxBuid?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/asterlinux/AsterLinuxBuid?style=for-the-badge">
 </p>
 
 <p align="center">
