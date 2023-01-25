@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/sourceforge/dt/archcraft.svg?label=downloads&logo=sourceforge&color=teal&style=flat-square">
-  <img src="https://img.shields.io/github/stars/archcraft-os/archcraft?style=flat-square">
-  <img src="https://img.shields.io/github/issues/archcraft-os/archcraft?color=violet&style=flat-square">
+  <img alt="SourceForge" src="https://img.shields.io/sourceforge/dt/aster-linux-iso?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/asterlinux/AsterLinuxBuid?style=flat-square">
+  <img src="https://img.shields.io/github/issues/asterlinux/AsterLinuxBuid?color=violet&style=flat-square">
 </p>
 
 <p align="center">
