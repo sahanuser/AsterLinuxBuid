@@ -1,2 +1,3 @@
 EDITOR=nano
 BROWSER=firefox
+VISUAL=kate
