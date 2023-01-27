@@ -1,7 +1,7 @@
 # GRUB boot loader configuration
 
 GRUB_DEFAULT=0
-GRUB_TIMEOUT=5
+GRUB_TIMEOUT=3
 GRUB_DISTRIBUTOR="Aster"
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 audit=0 nvme_load=yes quiet splash vt.global_cursor_default=0 udev.log_level=3"
 GRUB_CMDLINE_LINUX=""
@@ -15,6 +15,7 @@ GRUB_PRELOAD_MODULES="part_gpt part_msdos"
 # Set to 'countdown' or 'hidden' to change timeout behavior,
 # press ESC key to display menu.
 GRUB_TIMEOUT_STYLE=menu
+#GRUB_TIMEOUT_STYLE=hidden
 
 # Uncomment to use basic console
 GRUB_TERMINAL_INPUT=console
@@ -43,7 +44,7 @@ GRUB_DISABLE_RECOVERY=true
 #GRUB_COLOR_HIGHLIGHT="light-cyan/blue"
 
 #GRUB_BACKGROUND="/path/to/wallpaper"
-GRUB_THEME="/boot/grub/themes/space/theme.txt"
+GRUB_THEME="/usr/share/grub/themes/space/theme.txt"
 
 # Uncomment to get a beep at GRUB start
 #GRUB_INIT_TUNE="480 440 1"
