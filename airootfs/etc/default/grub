@@ -2,7 +2,7 @@
 
 GRUB_DEFAULT=0
 GRUB_TIMEOUT=5
-GRUB_DISTRIBUTOR="AsterLinux"
+GRUB_DISTRIBUTOR="Aster"
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 audit=0 nvme_load=yes quiet splash vt.global_cursor_default=0 udev.log_level=3"
 GRUB_CMDLINE_LINUX=""
 
