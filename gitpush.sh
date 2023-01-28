@@ -1,5 +1,6 @@
 #!/bin/sh
 
+git status -s
 git add .
 
 echo "Enter your commit"
