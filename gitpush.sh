@@ -3,5 +3,5 @@
 git add .
 
 
-git commit -m "Aster linux iso build tool"
+git commit -m "Update to aster Linux hooks pkg "
 git push
