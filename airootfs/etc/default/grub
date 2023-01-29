@@ -56,6 +56,7 @@ GRUB_THEME="/usr/share/grub/themes/space/theme.txt"
 
 # Uncomment to disable submenus in boot menu
 #GRUB_DISABLE_SUBMENU=y
+
 GRUB_FORCE_HIDDEN_MENU="true"
 
 # Probing for other operating systems is disabled for security reasons. Read
