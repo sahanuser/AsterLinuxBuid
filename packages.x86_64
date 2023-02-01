@@ -2,6 +2,7 @@ alsa-utils
 amd-ucode
 #arch-install-scripts
 #archinstall
+archiso
 b43-fwcutter
 base
 bind
@@ -33,7 +34,7 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
+#grml-zsh-config
 grub
 hdparm
 hyperv
@@ -86,7 +87,7 @@ ppp
 pptpclient
 pv
 qemu-guest-agent
-refind
+#refind
 reflector
 reiserfsprogs
 rp-pppoe
@@ -100,7 +101,7 @@ sof-firmware
 squashfs-tools
 sudo
 syslinux
-systemd-resolvconf
+#systemd-resolvconf
 tcpdump
 terminus-font
 testdisk
@@ -111,7 +112,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+#virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -143,7 +144,8 @@ xf86-video-vmware
 mesa
 vulkan-intel
 vulkan-radeon
-
+virtualbox-guest-utils
+mesa-utils
 
 # installer
 calamares
@@ -160,7 +162,7 @@ aster-wallpaper
 aster-sddm
 grub2-theme-space
 aster-plasma-skel
-plasma-theme-space
+#plasma-theme-space
 
 # shells and terminal emulaters etc
 bash
@@ -193,6 +195,7 @@ hyfetch
 exa
 bat
 htop
+ufw
 p7zip
 
 #system
@@ -217,6 +220,7 @@ dkms
 polkit
 polkit-kde-agent
 polkit-qt5
+downgrade
 
 # GUI apps
 thunar
@@ -229,10 +233,10 @@ latte-integrale
 kate
 flameshot
 gparted
-grsync
+#grsync
 vlc
 aster-welcome
-okular
+variety
 
 # bluetooth
 bluez
@@ -242,3 +246,13 @@ bluez-libs
 #plymouth
 plymouth
 plymouth-theme-space
+
+# sound
+alsa-firmware
+alsa-plugins
+alsa-lib
+alsa-utils
+libdvdcss
+pulseaudio
+pulseaudio-alsa
+pavucontrol
