@@ -190,6 +190,7 @@ ttf-dejavu
 wget
 git
 nano
+nano-syntax-highlighting
 lsb-release
 hyfetch
 exa
