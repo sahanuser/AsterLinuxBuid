@@ -226,6 +226,7 @@ downgrade
 # GUI apps
 thunar
 firefox
+aster-browser-settings
 meld
 galculator
 gwenview
