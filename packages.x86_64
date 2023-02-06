@@ -224,14 +224,11 @@ polkit-qt5
 downgrade
 
 # GUI apps
-thunar
 firefox
 aster-browser-settings
 meld
 galculator
 gwenview
-latte-dock
-latte-integrale
 kate
 flameshot
 gparted
@@ -259,3 +256,5 @@ libdvdcss
 pulseaudio
 pulseaudio-alsa
 pavucontrol
+
+
