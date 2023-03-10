@@ -22,5 +22,8 @@ Linux Distro, based on <a href="https://www.archlinux.org">Arch Linux</a>.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/asterlinux/AsterLinuxBuid/master/asterlinux-plasma.png">
+</p>
+
+<p align="center">
   Project will be stuck for a while sorry guys:(
 </p>
