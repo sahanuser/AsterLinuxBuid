@@ -10,9 +10,9 @@ brltty
 broadcom-wl
 btrfs-progs
 #clonezilla
-cloud-init
+#cloud-init
 cryptsetup
-darkhttpd
+#darkhttpd
 ddrescue
 dhclient
 dhcpcd
@@ -78,7 +78,7 @@ open-iscsi
 open-vm-tools
 openconnect
 openssh
-openvpn
+#openvpn
 partclone
 parted
 partimage
@@ -159,7 +159,6 @@ aster-keyring
 asl-neofetch
 aster-hooks
 aster-wallpaper
-aster-sddm
 grub2-theme-space
 aster-plasma-skel
 #plasma-theme-space
@@ -207,7 +206,7 @@ os-prober
 base-devel
 sed
 sddm
-libnotify
+#libnotify
 plasma
 lm_sensors
 unzip
@@ -226,8 +225,8 @@ downgrade
 # GUI apps
 firefox
 aster-browser-settings
-meld
-galculator
+#meld
+#galculator
 gwenview
 kate
 flameshot
@@ -237,6 +236,10 @@ vlc
 aster-welcome
 variety
 timeshift
+ark
+kalendar
+kcalc
+elisa
 
 # bluetooth
 bluez
@@ -256,5 +259,9 @@ libdvdcss
 pulseaudio
 pulseaudio-alsa
 pavucontrol
+
+
+# game
+kapman
 
 
